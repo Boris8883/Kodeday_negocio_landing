@@ -61,6 +61,7 @@ h2 {
   flex-wrap: wrap;
   text-transform: uppercase;
   font-weight: bold;
+  cursor: pointer;
 }
 
 #contenedor-descripcion {
